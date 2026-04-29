@@ -1,6 +1,9 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 Breadth First Search Traversal of a Graph
 
+NAME:VARNIKA K
+
+REGISTER NUMBER:212224060292
 
 AIM: 
 Theory: 
@@ -86,7 +89,8 @@ C D
 D E  
 D G 
 G F 
-''' 
+
+```` 
 def bfs(graph,start,visited,path): 
 queue = deque() 
 path.append(start) 
@@ -111,7 +115,8 @@ start = '0'
 path = [] 
 visited = defaultdict(bool) 
 traversedpath = bfs(graph,start,visited,path) 
-print(traversedpath) 
+print(traversedpath)
+````
 Sample Input : 
 5 6 
 0 1 
