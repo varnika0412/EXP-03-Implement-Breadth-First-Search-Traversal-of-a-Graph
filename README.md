@@ -1,9 +1,9 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 Breadth First Search Traversal of a Graph
 
-NAME:RAJA S
+NAME:VARNIKA K
 
-REGISTER NUMBER:212224060201
+REGISTER NUMBER:212224060292
 
 AIM: 
 Theory: 
